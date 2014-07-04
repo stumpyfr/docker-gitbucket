@@ -1,13 +1,11 @@
-docker-gitbucket
-================
+# docker-gitbucket
 
 Dockerfile for [gitbucket](https://github.com/takezoe/gitbucket)
 
-Usage
-================
+# Usage
 
-From the docker registry
-===
+## From the docker registry
+
 ```
 sudo docker pull stumpy/gitbucket
 mkdir data
@@ -20,8 +18,7 @@ sudo docker run -d -p 2022:22 -p 8080:8080 -v `pwd`/data:/data:rw stumpy/gitbuck
 ```
 
 
-From the Dockerfile
-===
+## From the Dockerfile
 
 ```
 git clone https://github.com/stumpyfr/docker-gitbucket.git
