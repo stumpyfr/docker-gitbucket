@@ -4,7 +4,7 @@ Dockerfile for [gitbucket](https://github.com/takezoe/gitbucket)
 
 # Usage
 
-## From the docker registry
+## From the docker repository
 
 ```
 sudo docker pull stumpy/gitbucket
