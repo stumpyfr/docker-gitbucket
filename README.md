@@ -3,6 +3,8 @@ docker-gitbucket
 
 Dockerfile for [gitbucket](https://github.com/takezoe/gitbucket)
 
+Current version 2.1, if you need older version, you can use tag, example: `stumpy/gitbucket:2.0`
+
 Usage
 ================
 
