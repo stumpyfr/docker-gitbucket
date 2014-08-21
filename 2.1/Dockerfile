@@ -1,7 +1,7 @@
 FROM ubuntu:12.04
 MAINTAINER Niels Freier
 
-ENV WARURL https://github.com/takezoe/gitbucket/releases/download/2.2.1/gitbucket.war
+ENV WARURL https://github.com/takezoe/gitbucket/releases/download/2.1/gitbucket.war
 ENV USER gitbucket
 ENV SSHPASS gitbucket
 
